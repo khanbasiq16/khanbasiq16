@@ -46,6 +46,11 @@ I focus on writing **clean, scalable, and maintainable code**, and I enjoy turni
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
+### ☁️ Cloud 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" />
+</p>
+
 ### 🔐 Tools & Other Skills  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,wordpress" />
