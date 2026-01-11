@@ -33,7 +33,7 @@ I focus on writing **clean, scalable, and maintainable code**, and I enjoy turni
 
 ### 🚀 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,android" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,js,materialui,android" />
 </p>
 
 ### 🧠 Backend  
@@ -43,7 +43,7 @@ I focus on writing **clean, scalable, and maintainable code**, and I enjoy turni
 
 ### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis," />
 </p>
 
 ### ☁️ Cloud 
@@ -53,7 +53,7 @@ I focus on writing **clean, scalable, and maintainable code**, and I enjoy turni
 
 ### 🔐 Tools & Other Skills  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,androidstudio,postman" />
 </p>
 
 ---
