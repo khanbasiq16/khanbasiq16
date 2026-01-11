@@ -48,7 +48,7 @@ I focus on writing **clean, scalable, and maintainable code**, and I enjoy turni
 
 ### ☁️ Cloud 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,cloudflare,vercel" />
 </p>
 
 ### 🔐 Tools & Other Skills  
