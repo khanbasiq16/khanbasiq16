@@ -33,7 +33,7 @@ I focus on writing **clean, scalable, and maintainable code**, and I enjoy turni
 
 ### 🚀 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,typescript,js,materialui,android" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,typescript,js,materialui,electron" />
 </p>
 
 ### 🧠 Backend  
